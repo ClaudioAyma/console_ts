@@ -1,0 +1,19 @@
+{
+  "name": "consola_ts",
+  "version": "1.0.0",
+  "description": "pequeño proyecto en consola ejecutado en el navegador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudioAyma/console_ts"
+  },
+  "author": "claudio.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudioAyma/console_ts/issues"
+  },
+  "homepage": "https://github.com/ClaudioAyma/console_ts#readme"
+}
